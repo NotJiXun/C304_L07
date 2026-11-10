@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NotJiXun/C304_L07/static/css/main.490a1114.css",
+    "main.js": "/NotJiXun/C304_L07/static/js/main.aada249c.js",
+    "index.html": "/NotJiXun/C304_L07/index.html",
+    "main.490a1114.css.map": "/NotJiXun/C304_L07/static/css/main.490a1114.css.map",
+    "main.aada249c.js.map": "/NotJiXun/C304_L07/static/js/main.aada249c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.490a1114.css",
+    "static/js/main.aada249c.js"
+  ]
+}
